@@ -1,5 +1,5 @@
 #for Summation code here
-user_num= int(input)
+user_num= int(input())
 
 total=0
 big=0
