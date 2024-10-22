@@ -1,4 +1,4 @@
-user_num=int(input())
+user_num=int(input)
 
 loopedamount=0
 
