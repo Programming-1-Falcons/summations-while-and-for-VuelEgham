@@ -10,4 +10,4 @@ while loopedamount<=user_num:
 
     sum_of_number=sum_of_number+loopedamount
     loopedamount = loopedamount + 1
-print((sum_of_number))
+print(sum_of_number)
