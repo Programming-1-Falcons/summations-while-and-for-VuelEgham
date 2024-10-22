@@ -6,7 +6,7 @@ sum_of_numbers=0
 
 while loopedamount<=user_num:
 
-    print(loopedamount)
+    
 
     loopedamount = loopedamount + 1
     sum_of_number=sum_of_number+loopedamount
