@@ -2,12 +2,12 @@ user_num=int(input("What is your number?"))
 
 loopedamount=0
 
-total=0
+sum_of_numbers=0
 
 while loopedamount<=user_num:
 
     print(loopedamount)
 
     loopedamount = loopedamount + 1
-    total=total+loopedamount
-print("Your total is "+str(total))
+    sum_of_number=sum_of_number+loopedamount
+print("Your total is "+str(sum_of_number))
