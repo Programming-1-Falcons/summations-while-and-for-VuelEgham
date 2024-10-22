@@ -8,6 +8,6 @@ while loopedamount<=user_num:
 
     
 
-    loopedamount = loopedamount + 1
     sum_of_number=sum_of_number+loopedamount
+    loopedamount = loopedamount + 1
 print("Your total is "+str(sum_of_number))
